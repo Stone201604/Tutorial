@@ -1,4 +1,4 @@
-    Today I had deeplier understood the usage of the linux command ¡° chmod¡±:
+    Today I had deeplier understood the usage of the linux command "chmod":
 Format  Chmod  permissions  to modify the permissions in the file Linux are as follows:
 r: read; w: write; x: execute.
 -rw------- (600) - only the master has read and write permissions.
